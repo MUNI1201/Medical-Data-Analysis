@@ -1,4 +1,4 @@
-# Hospital Data Analysis | MySQL
+# Medical Data Analysis | MySQL
 
 ## Overview
 This is a SQL project on a sample hospital database. I wrote queries to answer practical questions about patients, admissions and doctors.
