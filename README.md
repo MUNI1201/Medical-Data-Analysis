@@ -27,4 +27,4 @@ This is a SQL project on a sample hospital database. I wrote queries to answer p
 Filtering, sorting, grouping, joins, UNION, CASE, string and date functions, UPDATE.
 
 ## Files
-- ``: all solved queries
+- `Health care sql.sql`: all solved queries
